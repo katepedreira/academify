@@ -1,3 +1,3 @@
-# Academify-backend2
+# Academify-backend
 
-Projeto academify2
+Projeto realizado em Java (SpringBoot) para a disciplina de Aplicações Orientadas a Objetos com Persistência de Dados
